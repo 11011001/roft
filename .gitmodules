@@ -13,3 +13,18 @@
 [submodule "rs2cl"]
 	path = lib/rs2cl
 	url = git://github.com/sebcrozet/rs2cl.git
+[submodule "lib/nalgebra"]
+	path = lib/nalgebra
+	url = git://github.com/sebcrozet/nalgebra.git
+[submodule "lib/kiss3d"]
+	path = lib/kiss3d
+	url = git://github.com/sebcrozet/kiss3d.git
+[submodule "lib/nphysics"]
+	path = lib/nphysics
+	url = git://github.com/sebcrozet/nphysics.git
+[submodule "lib/rust-opencl"]
+	path = lib/rust-opencl
+	url = git://github.com/sebcrozet/rust-opencl.git
+[submodule "lib/rs2cl"]
+	path = lib/rs2cl
+	url = git://github.com/sebcrozet/rs2cl.git
